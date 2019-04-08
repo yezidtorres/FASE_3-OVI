@@ -1,0 +1,16 @@
+{
+  "crawl": false,
+  "customTests": [],
+  "dest": "/PATH/TO/modernizr-output.js",
+  "tests": [
+    "audio",
+    "canvas",
+    "fullscreen",
+    "htmlimports",
+    "touchevents"
+  ],
+  "options": [
+    "setClasses"
+  ],
+  "uglify": true
+}

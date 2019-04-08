@@ -1,0 +1,13 @@
+{
+  "minify": true,
+  "options": [
+    "setClasses"
+  ],
+  "feature-detects": [
+    "test/audio",
+    "test/canvas",
+    "test/fullscreen-api",
+    "test/htmlimports",
+    "test/touchevents"
+  ]
+}
